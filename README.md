@@ -6,7 +6,7 @@ chezmoi
 # STEPS
 ``` yay -S chezmoi --noconfirm ```
 
-``` chezmoi init <your-repo-url> ```
+``` chezmoi init notsuju ```
 
 ``` chmod +x ~/.local/share/chezmoi/scripts/install_programs.sh ```
 
