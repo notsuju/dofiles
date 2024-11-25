@@ -10,6 +10,4 @@ chezmoi
 
 ``` chmod +x ~/.local/share/chezmoi/scripts/install_programs.sh ```
 
-``` ~/.local/share/chezmoi/scripts/install_programs.sh ```
-
 ``` chezmoi apply ```
