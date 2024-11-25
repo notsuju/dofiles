@@ -11,3 +11,5 @@ chezmoi
 ``` chmod +x ~/.local/share/chezmoi/scripts/install_programs.sh ```
 
 ``` chezmoi apply ```
+
+chmod -R u+rw ~/.config
