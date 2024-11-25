@@ -3,5 +3,9 @@ git
 chezmoi
 
 
-Install dotfiles using 
-``` $ chezmoi init --apply notsuju ```
+# STEPS
+``` yay -S chezmoi --noconfirm ```
+``` chezmoi init <your-repo-url> ```
+``` chmod +x ~/.local/share/chezmoi/scripts/install_programs.sh ```
+``` ~/.local/share/chezmoi/scripts/install_programs.sh ```
+``` chezmoi apply ```
