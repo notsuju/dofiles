@@ -1,3 +1,21 @@
+# legendary-bassoon
+## Screenshots
+
+![swappy-20240703-130511](https://github.com/notsuju/legendary-bassoon/assets/131643792/d5354832-8669-4351-8837-329d3de3c54e)
+
+![swappy-20240703-141834](https://github.com/notsuju/legendary-bassoon/assets/131643792/e244cc21-10d0-4cbe-aa32-0af2c331e374)
+
+![swappy-20240703-134550](https://github.com/notsuju/legendary-bassoon/assets/131643792/b5c0e629-f213-4306-9bb5-56dd6365bf41)
+
+![swappy-20240627-121523](https://github.com/notsuju/legendary-bassoon/assets/131643792/59f82dd3-2515-49a8-9792-2088231d23f2)
+
+![swappy-20240627-122837](https://github.com/notsuju/legendary-bassoon/assets/131643792/0ca3ddb9-3daf-48a8-b199-dcf4c110ea41)
+
+![swappy-20240703-140536](https://github.com/notsuju/legendary-bassoon/assets/131643792/12aff7bf-f999-4a9f-9867-b88d3f5b178b)
+
+![swappy-20240705-123418](https://github.com/notsuju/legendary-bassoon/assets/131643792/d8c0a51c-f998-4ca8-9b9a-d6e25baa116c)
+
+
 # Install the following first
 git
 chezmoi
