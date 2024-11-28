@@ -175,8 +175,6 @@ install_aur_packages() {
         "pfetch"
         "rose-pine-gtk-theme-full"
         "sddm-theme-sugar-candy-git"
-        "spicetify-cli"
-        "spicetify-cli-debug"
         "spotify-tui-debug"
         "swaylock-effects"
         "swaylock-effects-debug"
